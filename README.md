@@ -17,7 +17,3 @@ I'm a **full-stack developer** specialized in **WordPress, Laravel, and JavaScri
 ---
 
 🎯 Reliable, detail-oriented and deadline-driven, I’m passionate about clean, efficient web development and helping businesses bring their ideas to life.
-
-📫 Contact: [contact@infinityweb.tn](mailto:contact@infinityweb.tn)  
-🌐 Website: [infinityweb.tn](https://infinityweb.tn)  
-🔗 [LinkedIn](https://www.linkedin.com/in/akr3m/) 
