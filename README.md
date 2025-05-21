@@ -13,7 +13,3 @@ I'm a **full-stack developer** specialized in **WordPress, Laravel, and JavaScri
 - **React / Next.js / Express.js**: SPA/MPA, OAuth2, JWT, Zustand, PostgreSQL, MongoDB
 - **Design**: Business cards, flyers, brochures, CV/resumes
 - **Tools**: Git, cPanel/Plesk, Render, Vercel, Railway, API integrations, CI/CD
-
----
-
-## 🎯 Reliable, detail-oriented and deadline-driven, I’m passionate about clean, efficient web development and helping businesses bring their ideas to life.
