@@ -4,8 +4,6 @@ I'm a **full-stack developer** specialized in **WordPress, Laravel, and JavaScri
 
 💻 I have strong skills in pixel-perfect UI integration (Figma, Adobe XD) using **Tailwind CSS** and **Bootstrap**, advanced WordPress development (custom themes, ACF, WPML, Elementor), and building **secure REST APIs** using Laravel or Node/Express. I also create modern interfaces with **React/Next.js**, connected to scalable and maintainable backends.
 
----
-
 ## 🚀 Core Skills & Tech Stack
 
 - **WordPress**: Custom themes/plugins, ACF Pro, WPML, page builders (Elementor, Divi)
