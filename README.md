@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Akrem
 
-I'm a **full-stack developer** specialized in **WordPress, Laravel, and JavaScript**, with over 10 years of experience. I help clients build custom websites and web applications—whether it's a showcase site, e-commerce platform, internal tool, or dashboard—with high attention to quality, performance, and deadlines.
+I'm a **full-stack developer** with over 10 years of experience, focused on building modern web applications using **React/Next.js**, **Laravel**, and **WordPress**. I help clients ship fast, scalable, and maintainable products—whether it's a SaaS app, dashboard, internal tool, e-commerce platform, or custom website.
 
-💻 I have strong skills in pixel-perfect UI integration (Figma, Adobe XD) using **Tailwind CSS** and **Bootstrap**, advanced WordPress development (custom themes, ACF, WPML, Elementor), and building **secure REST APIs** using Laravel or Node/Express. I also create modern interfaces with **React/Next.js**, connected to scalable and maintainable backends.
+💻 I have strong skills in building **modern frontends with React/Next.js** (SPA, SSR, SSG), integrating clean UI from Figma/Adobe XD using **Tailwind CSS** and **Bootstrap**, and connecting them to robust APIs built with **Laravel** or **Node/Express**. I also have extensive experience in **advanced WordPress development** (custom themes, plugins, multilingual, and complex setups).
 
 ## 🚀 Core Skills & Tech Stack
 
-- **WordPress**: Custom themes/plugins, ACF Pro, WPML, page builders (Elementor, Divi)
+- **React / Next.js / Express.js**: SPA/MPA, SSR/SSG, OAuth2, JWT, Zustand, PostgreSQL, MongoDB
 - **Laravel**: MVC architecture, REST APIs, Eloquent ORM, Auth, Stripe, Nova, Docker
-- **React / Next.js / Express.js**: SPA/MPA, OAuth2, JWT, Zustand, PostgreSQL, MongoDB
+- **WordPress**: Custom themes/plugins, ACF Pro, WPML, page builders (Elementor, Divi)
+- **Frontend & UI**: Pixel-perfect integration from Figma/Adobe XD, Tailwind CSS, Bootstrap
 - **Design**: Business cards, flyers, brochures, CV/resumes
-- **Tools**: Git, cPanel/Plesk, Render, Vercel, Railway, API integrations, CI/CD
+- **Tools & DevOps**: Git, cPanel/Plesk, Render, Vercel, Railway, API integrations, CI/CD
